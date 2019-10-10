@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title:  "Conference Rates Posted"
 date:   2014-06-29
 categories: update
