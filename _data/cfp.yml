@@ -21,7 +21,6 @@ master:
       - plural: Workshops
         singular: workshop
         include: workshops
-        
   - date: "Monday, September 29, 2014"
     shortdate: "2014-09-29"
     time: "23:59 in Apia, Samoa (UTC+13h)"
@@ -69,17 +68,17 @@ details:
     limits: "2 pages"
     abstract: "150 words"
     length: "2 hours (poster session)"
-  Special Sessions:
+  Special_Sessions:
     limits: "2 pages"
     length: "75 minutes"
   Workshops:
     limits: "3 pages (including title page)"
     length: "3 hours"
-  Birds of a Feather:
+  Birds_of_a_Feather:
     limits: "1 page"
     abstract: "150 words"
     length: "45 minutes"
-  Lightning Talks:
+  Lightning_Talks:
     limits: "1 page"
     abstract: "150 words"
     length: "5 minutes"
@@ -87,13 +86,13 @@ details:
     limits: "2 pages"
     abstract: "150 words"
     length: "30 minutes (during breaks)"
-  Student Research Competition:
+  Student_Research_Competition:
     limits: "800 words"
     abstract: "800 characters"
     length: "2 hours (poster session)"
 
 notifications:
-  Student Research Competition: After September 29 (TBA)
+  Student_Research_Competition: After September 29 (TBA)
 
 studentResearchCompetition:
   chair: Dr. Ann Sobel

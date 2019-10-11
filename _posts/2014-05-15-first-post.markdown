@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "And We're Live"
 date:   2014-05-14
 categories: update
