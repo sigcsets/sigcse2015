@@ -21,7 +21,11 @@ Talk (as detailed below). The abstract needs to appear in two places: in
 the PDF proposal and in a text box on the submission page (see below). 
 The format for the Lightning Talk proposal is as follows.
 
+<<<<<<< HEAD
 ## Lightning Talk Proposal Format and Contents (limited to {{site.data.cfp.details.Lightning_Talks.limits}})
+=======
+## Lightning Talk Proposal Format and Contents (limited to {{site.data.cfp.details.LightningTalks.limits}})
+>>>>>>> 3a974e057ace42932401d60898081d9b698d3958
 
 * **Proposer**: Include name, affiliation, address, phone and fax numbers, 
 email address, and Website address (if applicable). This item does not 
@@ -46,7 +50,11 @@ be interested too. Lightning talks are expected to explore tentative or
 preliminary work, or even ideas for possible work.  Presentations of 
 mature work will not be considered.
 
+<<<<<<< HEAD
 ## Lightning Talk Abstract (limited to {{site.data.cfp.details.Lightning_Talks.abstract}})
+=======
+## Lightning Talk Abstract (limited to {{site.data.cfp.details.LightningTalks.abstract}})
+>>>>>>> 3a974e057ace42932401d60898081d9b698d3958
 
 The abstract is the description of the Lightning talk that will appear 
 on the conference web pages. The description is limited to and must 

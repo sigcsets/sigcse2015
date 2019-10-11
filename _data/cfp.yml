@@ -78,7 +78,11 @@ details:
     limits: "1 page"
     abstract: "150 words"
     length: "45 minutes"
+<<<<<<< HEAD
   Lightning_Talks:
+=======
+  LightningTalks:
+>>>>>>> 3a974e057ace42932401d60898081d9b698d3958
     limits: "1 page"
     abstract: "150 words"
     length: "5 minutes"

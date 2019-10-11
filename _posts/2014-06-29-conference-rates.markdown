@@ -1,4 +1,8 @@
 ---
+<<<<<<< HEAD
+=======
+layout: post
+>>>>>>> 3a974e057ace42932401d60898081d9b698d3958
 title:  "Conference Rates Posted"
 date:   2014-06-29
 categories: update
